@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aditya-vardhan-singh-github
+- 👀 I’m interested in contributing open-source
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me aditya.vardhan.singh@outlook.com
